@@ -1,0 +1,4 @@
+check
+=====
+
+Just for fun.
